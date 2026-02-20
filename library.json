@@ -8,9 +8,6 @@
     "type": "git",
     "url": "https://github.com/compilerNayan/03_device_connectivity.git"
   },
-  "dependencies": {
-    "02_cpp_utils": "https://github.com/compilerNayan/02_cpp_utils.git"
-  },
   "license": "MIT",
   "frameworks": "arduino",
   "platforms": "*"
